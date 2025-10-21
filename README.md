@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Hồ Hải Châu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
-🎓 Software Engineering Student (Vietnam–Japan Program) at **Vietnam–Korea University of Information and Communication Technology (VKU)**  
+🎓 Software Engineering Student (Vietnam–Japan Program) 
+at **Vietnam–Korea University of Information and Communication Technology (VKU)**  
 💻 Passionate **Fullstack Developer** focused on building scalable **Web**, **Mobile**, and **Cloud** applications.  
 ⚙️ I love clean architecture, efficient backend systems, and seamless deployment workflows.  
 🗣️ Languages: Vietnamese (Native) · English (TOEIC 755) · Japanese (Basic)
@@ -38,11 +39,11 @@
 ### ☁️ Learning & Exploring
 
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="icons/aws.png" alt="AWS" width="40" height="40" style="margin-right: 5px;"/>
+  <img src="icons/aws.png" alt="AWS" width="50" height="40" />
 </a>
 <a href="https://vercel.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="40"/></a>
-<a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/></a>
 <a href="https://render.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" width="40"/></a>
+<a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/></a>
 
 > Currently exploring **cloud deployment**, **CI/CD pipelines**, and **backend scalability** to level up as a fullstack engineer.
