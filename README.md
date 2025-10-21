@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Hồ Hải Châu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img src="images/avatar.png" align="right" width="200"/>
 
 🎓 Software Engineering Student (Vietnam–Japan Program) at **Vietnam–Korea University of Information and Communication Technology (VKU)**  
 💻 Passionate **Fullstack Developer** focused on building scalable **Web**, **Mobile**, and **Cloud** applications.  
@@ -11,37 +10,40 @@
 
 ### 🌐 Connect with Me
 
-[![GitHub](icons/github.png)](https://github.com/ChauKnockUI)
-[![LinkedIn](icons/linkedin.png)](#)
-[![Instagram](icons/instagram.png)]([#](https://www.instagram.com/chauzkwxrz/))
-[![Gmail](icons/gmail.png)](mailto:hhchau.soar88@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ChauKnockUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hohaichau)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/chauzkwxrz/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hhchau.soar88@gmail.com)
+
 
 ---
 
 ### 🧰 Tech Stack — Currently Working With
 
-<a href="https://nodejs.org/" title="Node.js"><img src="icons/nodejs.png" /></a>
-<a href="https://expressjs.com/" title="Express.js"><img src="icons/express.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-<a href="https://reactnative.dev/" title="React Native"><img src="icons/reactnative.png" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="icons/html.png" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="icons/css.png" /></a>
-<a href="https://www.javascript.com/" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://www.mongodb.com/" title="MongoDB"><img src="icons/mongodb.png" /></a>
-<a href="https://firebase.google.com/" title="Firebase"><img src="icons/firebase.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></a>
+<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/></a>
+<a href="https://flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/></a>
+<a href="https://reactnative.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>
+<a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /></a>
+<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></a>
+<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/></a>
+<a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/></a>
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></a>
 
 ---
 
 ### ☁️ Learning & Exploring
 
-<a href="https://aws.amazon.com/" title="AWS Cloud"><img src="icons/aws.png" /></a>
-<a href="https://vercel.com/" title="Vercel"><img src="icons/vercel.png" /></a>
-<a href="https://render.com/" title="Render"><img src="icons/render.png" /></a>
-<a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="icons/springboot.png" /></a>
-<a href="https://www.nginx.com/" title="Nginx"><img src="icons/nginx.png" /></a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="icons/aws.png" alt="AWS" width="40" height="40" style="margin-right: 5px;"/>
+</a>
+<a href="https://vercel.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="40"/></a>
+<a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/></a>
+<a href="https://render.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" width="40"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/></a>
 
 > Currently exploring **cloud deployment**, **CI/CD pipelines**, and **backend scalability** to level up as a fullstack engineer.
 
@@ -49,10 +51,10 @@
 
 ### 🧠 Previously Worked With
 
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://www.java.com/" title="Java"><img src="icons/java.png" /></a>
-<a href="https://kotlinlang.org/" title="Kotlin"><img src="icons/kotlin.png" /></a>
-<a href="https://www.microsoft.com/sql-server" title="SQL Server"><img src="icons/sqlserver.png" /></a>
+<a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/></a>
+<a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></a>
+<a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/></a>
+<a href="https://www.microsoft.com/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/></a>
 
 ---
 
