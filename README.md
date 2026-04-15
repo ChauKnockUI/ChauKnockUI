@@ -5,7 +5,7 @@
 at **Vietnam–Korea University of Information and Communication Technology (VKU)**  
 💻 Passionate **Fullstack Developer** focused on building scalable **Web**, **Mobile**, and **Cloud** applications.  
 ⚙️ I love clean architecture, efficient backend systems, and seamless deployment workflows.  
-🗣️ Languages: Vietnamese (Native) · English (TOEIC 755) · Japanese (Basic)
+🗣️ Languages: Vietnamese (Native) · English (TOEIC 755) · Japanese (~B1)
 
 ---
 
